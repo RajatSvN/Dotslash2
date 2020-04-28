@@ -8,12 +8,12 @@
 // };
 
 var config = {
-  apiKey: "AIzaSyBpWMzK7KQBGJMuIjvTdNFKsw0jpxReU8U",
-  authDomain: "dotslash-ba4c2.firebaseapp.com",
-  databaseURL: "https://dotslash-ba4c2.firebaseio.com",
-  projectId: "dotslash-ba4c2",
+  apiKey: "AIzaSyBpWMzK7KQBGJMuIjvTsw0jpxReU8U",
+  authDomain: "dotslash-ba4c2.firapp.com",
+  databaseURL: "https://dotsh-ba4c2.firebaseio.com",
+  projectId: "dot-ba4c2",
   storageBucket: "dotslash-ba4c2.appspot.com",
-  messagingSenderId: "484884876494",
+  messagingSenderId: "48488487694",
   appId: "1:484884876494:web:9cbde8ed8e7be8c093149f",
   measurementId: "G-2ZKY5VP4YL"
 };
